@@ -1,6 +1,6 @@
 ### About
 
-I am currently looking for a 13-week unpaid internship in Belgium in the field of computer engineering, starting in February 2021.
+I am currently looking for a 13-week unpaid internship in Belgium in IT Engineering, starting in February 2021.
 More precisely, in the field of machine learning and/or artificial intelligence :-)
 
 ---

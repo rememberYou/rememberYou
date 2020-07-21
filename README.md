@@ -11,3 +11,4 @@ More precisely, in the field of machine learning and/or artificial intelligence 
 - Email: [terencio.agozzino@gmail.com](mailto:terencio.agozzino@gmail.com)
 - LinkedIn: [linkedin.com/in/terencioagozzino](https://www.linkedin.com/in/terencioagozzino/)
 - IRC: `/q rememberYou` (`#archlinux`,` #emacs`)
+- PGP: [208FCDBB98190562](https://raw.githubusercontent.com/rememberYou/rememberYou/master/publickey.txt)

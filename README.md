@@ -1,8 +1,11 @@
 ### About
 
-I am currently looking for a 13-week unpaid internship in Belgium in IT Engineering, starting in February 2021.
+I am currently in the final year of my Master of Engineering degree. By the end
+of 2021, I would like to work in machine learning and/or artificial
+intelligence, ideally abroad.
 
-More precisely, in the field of machine learning and/or artificial intelligence :-)
+If you would like to get in touch with me to discuss a job offer, please do not
+hesitate to contact me.
 
 ---
 

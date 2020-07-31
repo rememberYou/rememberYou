@@ -5,7 +5,7 @@ of 2021, I would like to work in machine learning and/or artificial
 intelligence, ideally abroad.
 
 If you would like to get in touch with me to discuss a job offer, please do not
-hesitate to contact me.
+hesitate to contact me :-)
 
 ---
 

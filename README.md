@@ -1,7 +1,7 @@
 ### About
 
-I am currently in the final year of my Master of Engineering degree. By the end
-of 2021, I would like to work in the field of machine learning and/or artificial
+I am currently in the final year of my Master of Engineering degree. From July
+2021, I would like to work in the field of machine learning and/or artificial
 intelligence, ideally abroad.
 
 If you would like to get in touch with me to discuss a job offer, please do not

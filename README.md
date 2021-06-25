@@ -1,11 +1,8 @@
 ### About
 
-I am currently in the final year of my Master of Engineering degree. From July
-2021, I would like to work in the field of Machine Learning and/or Artificial
-Intelligence, ideally abroad.
-
-If you would like to get in touch with me to discuss a job offer, please do not
-hesitate to contact me :-)
+Interested in Machine Learning and the Semantic Web. People forget the past, the
+machine never. Don't hesitate to get in touch with me for a chat over a drink,
+unless you're one of those influencers who take pictures of their meals ;-)
 
 ---
 
@@ -13,5 +10,5 @@ hesitate to contact me :-)
 
 - Email: [terencio.agozzino@gmail.com](mailto:terencio.agozzino@gmail.com)
 - LinkedIn: [linkedin.com/in/terencioagozzino](https://www.linkedin.com/in/terencioagozzino/)
-- IRC: `/q rememberYou` (`#archlinux`,` #emacs`)
+- IRC: `/q rememberYou` (`#archlinux` or ` #emacs`) on `irc.libera.chat`
 - PGP: [208FCDBB98190562](https://raw.githubusercontent.com/rememberYou/rememberYou/master/publickey.txt)

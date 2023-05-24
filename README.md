@@ -1,11 +1,9 @@
 ### About
 
-I am currently in the final year of my Master of Engineering degree. From July
-2021, I would like to work in the field of Machine Learning and/or Artificial
-Intelligence, ideally abroad.
-
-If you would like to get in touch with me to discuss a job offer, please do not
-hesitate to contact me :-)
+Passionate about Cloud solutions, architectural design, and AWS. Co-author of
+two research papers exploring the Semantic Web with Knowledge Graphs. Let's
+connect for a chat over a drink, unless you're one of those influencers who take
+pictures of their meals ;-)
 
 ---
 

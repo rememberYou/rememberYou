@@ -8,8 +8,7 @@ production.
 Before consulting, I co-authored two research papers on the Semantic Web and
 Knowledge Graphs at IDLab – imec, and built
 [pyRDF2Vec](https://github.com/predict-idlab/pyRDF2Vec), a library widely cited
-by the research community. Outside of work, I keep refining my
-[Emacs configuration](https://github.com/rememberYou/.emacs.d).
+by the research community.
 
 Let's connect for a chat over a drink, unless you're one of those influencers
 who take pictures of their meals ;-)

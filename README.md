@@ -21,8 +21,7 @@ who take pictures of their meals ;-)
 
 ### Contact
 
-- Website: [rememberyou.github.io](https://rememberyou.github.io), with my CV
-  and master's thesis
+- Website: [rememberyou.github.io](https://rememberyou.github.io)
 - Email: [terencio.agozzino@gmail.com](mailto:terencio.agozzino@gmail.com)
 - IRC: `/q rememberYou` (`#archlinux` or `#emacs`) on `irc.libera.chat`
 - PGP: [208FCDBB98190562](https://raw.githubusercontent.com/rememberYou/rememberYou/main/publickey.txt)

@@ -1,8 +1,9 @@
 ### About
 
-Solutions Architect at CBTW, building cloud platforms on AWS and Azure: landing
-zones, multi-account CI/CD, and data and AI pipelines. Currently an AWS Platform
-Engineer for Partenamut.
+Solutions Architect at CBTW. I design cloud platforms on AWS and Azure, from
+secure landing zones and multi-account CI/CD to data and AI pipelines, and help
+clients choose the architecture that fits them, from the first proposal to
+production.
 
 Before consulting, I co-authored two research papers on the Semantic Web and
 Knowledge Graphs at IDLab – imec, and built
